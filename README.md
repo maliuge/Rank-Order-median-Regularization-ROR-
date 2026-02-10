@@ -17,7 +17,7 @@ https://seiscope2.osug.fr/TOY2DAC-273
 How to use (TOY2DAC integration)
 -------------------------------
 1) Choose a 1D or 2D window implementation and replace the corresponding TOY2DAC
-   regularization subroutine with the provided "sub_Tikhonov.f90" (or the selected
+   regularization subroutine with the name "sub_Tikhonov.f90" (or the selected
    variant in this repository).
 2) Recompile TOY2DAC.
 
