@@ -1,4 +1,4 @@
-TOY2DAC – Modified regularization routines for edge-preserving FWI
+Modified regularization routines for edge-preserving FWI – TOY2DAC
 =================================================================
 
 Purpose
